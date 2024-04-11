@@ -1,0 +1,38 @@
+.banner {
+  background-image: url(./assets/image/starry-sky-4k_1540136241.jpg.webp);
+  background-size: cover;
+  padding-top: 30%;
+  padding-bottom: 30%;
+  color: #fff;
+  overflow-x: hidden;
+}
+.profile {
+  display: flex;
+  justify-content: left;
+  align-items: right;
+}
+.tentang {
+  background: linear-gradient(#fff 0%, #3a67bcb5 40%, #2313d3ee 100%);
+  padding-left: 100px;
+  color: white;
+}
+p {
+  color: #fff;
+  font-size: larger;
+  font-family: Cambria, Cochin, Georgia, Times, "Times New Roman", serif;
+}
+.col {
+  text-align: center;
+  font-size: x-large;
+  color: white;
+  font-family: Cambria, Cochin, Georgia, Times, "Times New Roman", serif;
+}
+li {
+  text-align: center;
+  color: #fff;
+  font-size: larger;
+  font-family: Cambria, Cochin, Georgia, Times, "Times New Roman", serif;
+}
+.contact {
+  font-size: 35px;
+}
